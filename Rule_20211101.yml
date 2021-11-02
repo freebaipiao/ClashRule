@@ -772,6 +772,7 @@ proxy-groups:
     proxies:
       - DIRECT
 rules:
+  - DOMAIN-KEYWORD,notion,🚀 节点选择
   - DOMAIN-SUFFIX,windy.com,🚀 节点选择
   - DOMAIN-SUFFIX,acg18.icu,🎯 全球直连
   - DOMAIN-SUFFIX,nintendowifi.net,🎮 游戏平台
