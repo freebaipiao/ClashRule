@@ -399,6 +399,15 @@ proxy-groups:
       - 🇺🇲 United States 04 | Media
       - 🇺🇲 United States 05 | Media
 rules:
+ - DOMAIN-KEYWORD,rockstargames,🚀 节点选择
+ - DOMAIN-KEYWORD,notion,🚀 节点选择
+ - DOMAIN-SUFFIX,windy.com,🚀 节点选择
+ - DOMAIN-SUFFIX,acg18.icu,🎯 全球直连
+ - DOMAIN-SUFFIX,nintendowifi.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,nintendo.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,nintendo.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,battlenet.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,battle.net,🎮 游戏平台
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
