@@ -2638,6 +2638,38 @@ rules:
  - DOMAIN-SUFFIX,fanatical.com,🎮 游戏平台
  - DOMAIN-SUFFIX,humblebundle.com,🎮 游戏平台
  - DOMAIN-SUFFIX,steamcommunity.com,🎮 游戏平台
+ - DOMAIN,steambroadcast.akamaized.net,🎮 游戏平台
+ - DOMAIN,steamcdn-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN,steamcommunity-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN,steampipe.akamaized.net,🎮 游戏平台
+ - DOMAIN,steamstore-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN,steamusercontent-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN,steamuserimages-a.akamaihd.net,🎮 游戏平台
+ - DOMAIN-SUFFIX,fanatical.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,humblebundle.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,playartifact.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steam-chat.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamcommunity.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamgames.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steampowered.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamstat.us,🎮 游戏平台
+ - DOMAIN-SUFFIX,steamstatic.com,🎮 游戏平台
+ - DOMAIN-SUFFIX,valvesoftware.com,🎮 游戏平台
+ - DOMAIN,csgo.wmsj.cn,🎯 全球直连
+ - DOMAIN,dl.steam.clngaa.com,🎯 全球直连
+ - DOMAIN,dl.steam.ksyna.com,🎯 全球直连
+ - DOMAIN,dota2.wmsj.cn,🎯 全球直连
+ - DOMAIN,st.dl.bscstorage.net,🎯 全球直连
+ - DOMAIN,st.dl.eccdnx.com,🎯 全球直连
+ - DOMAIN,st.dl.pinyuncloud.com,🎯 全球直连
+ - DOMAIN,steampipe.steamcontent.tnkjmec.com,🎯 全球直连
+ - DOMAIN,steampowered.com.8686c.com,🎯 全球直连
+ - DOMAIN,steamstatic.com.8686c.com,🎯 全球直连
+ - DOMAIN,wmsjsteam.com,🎯 全球直连
+ - DOMAIN-SUFFIX,steamchina.com,🎯 全球直连
+ - DOMAIN-SUFFIX,steamcontent.com,🎯 全球直连
+ - DOMAIN-SUFFIX,steamusercontent.com,🎯 全球直连
+ - DOMAIN-SUFFIX,underlords.com,🎯 全球直连
  - DOMAIN-KEYWORD,youtube,📹 油管视频
  - DOMAIN,youtubei.googleapis.com,📹 油管视频
  - DOMAIN,yt3.ggpht.com,📹 油管视频
